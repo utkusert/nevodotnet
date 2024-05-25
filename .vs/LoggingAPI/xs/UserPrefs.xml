@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{CA8C7457-457C-445C-BEEB-BD363C9BAAFD}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="36" Column="37" />
+      <File FileName="Controllers/LogsController.cs" Line="17" Column="56" />
+      <File FileName="../LogLibrary/Loggers/Logger.cs" Line="1" Column="1" />
+      <File FileName="../LogLibrary/Appenders/ConsoleAppender.cs" Line="35" Column="1" />
+      <File FileName="../LogLibrary/Appenders/FileAppender.cs" Line="44" Column="1" />
+      <File FileName="../LogLibrary/Layouts/XmlLayout.cs" Line="1" Column="1" />
+      <File FileName="../LogLibrary/Loggers/ILogger.cs" Line="1" Column="1" />
+      <File FileName="../LogLibrary/Models/LogFile.cs" Line="28" Column="1" />
+      <File FileName="../LogLibrary/Layouts/SimpleLayout.cs" Line="1" Column="1" />
+      <File FileName="../LogLibrary/Layouts/ILayout.cs" Line="1" Column="1" />
+      <File FileName="../LogLibrary/Enums/ReportLevel.cs" Line="1" Column="1" />
+      <File FileName="../LogLibrary/Appenders/IAppender.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoggingAPI" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>LoggerLibrary/LoggerLibrary.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LoggingAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
