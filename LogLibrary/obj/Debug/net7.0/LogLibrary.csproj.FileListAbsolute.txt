@@ -1,0 +1,12 @@
+/Users/utkusert/Projects/LogLibrary/bin/Debug/net7.0/LogLibrary.deps.json
+/Users/utkusert/Projects/LogLibrary/bin/Debug/net7.0/LogLibrary.dll
+/Users/utkusert/Projects/LogLibrary/bin/Debug/net7.0/LogLibrary.pdb
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/LogLibrary.csproj.AssemblyReference.cache
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/LogLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/LogLibrary.AssemblyInfoInputs.cache
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/LogLibrary.AssemblyInfo.cs
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/LogLibrary.csproj.CoreCompileInputs.cache
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/LogLibrary.dll
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/refint/LogLibrary.dll
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/LogLibrary.pdb
+/Users/utkusert/Projects/LogLibrary/obj/Debug/net7.0/ref/LogLibrary.dll

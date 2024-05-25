@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Appenders\" />
+    <None Remove="Enums\" />
+    <None Remove="Layouts\" />
+    <None Remove="Models\" />
+    <None Remove="Loggers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Appenders\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Layouts\" />
+    <Folder Include="Models\" />
+    <Folder Include="Loggers\" />
+  </ItemGroup>
+</Project>

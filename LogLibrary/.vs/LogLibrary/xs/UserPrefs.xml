@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class1.cs">
+    <Files>
+      <File FileName="Class1.cs" Line="1" Column="1" />
+      <File FileName="Appenders/IAppender.cs" Line="10" Column="6" />
+      <File FileName="Appenders/ConsoleAppender.cs" Line="23" Column="14" />
+      <File FileName="Appenders/FileAppender.cs" Line="25" Column="50" />
+      <File FileName="Enums/ReportLevel.cs" Line="10" Column="8" />
+      <File FileName="Layouts/ILayout.cs" Line="6" Column="70" />
+      <File FileName="Layouts/SimpleLayout.cs" Line="8" Column="62" />
+      <File FileName="Layouts/XmlLayout.cs" Line="4" Column="34" />
+      <File FileName="Models/LogFile.cs" Line="21" Column="6" />
+      <File FileName="Loggers/ILogger.cs" Line="11" Column="1" />
+      <File FileName="Loggers/Logger.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LogLibrary" expanded="True">
+            <Node name="LogLibrary" expanded="True">
+              <Node name="Appenders" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Layouts" expanded="True" />
+              <Node name="Loggers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LogLibrary FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
